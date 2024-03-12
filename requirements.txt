@@ -1,0 +1,12 @@
+streamlit
+numpy
+PyMuPDF
+easyocr
+opencv-python-headless
+python-pptx
+python-docx
+transformers
+Pillow
+shutilwhich  
+regex  
+watchdog
